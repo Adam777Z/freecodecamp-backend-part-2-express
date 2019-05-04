@@ -1,6 +1,6 @@
 {
 	"author": "Adam",
-  "name": "fcc-learn-node-with-express",
+	"name": "fcc-learn-node-with-express",
 	"version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0",
