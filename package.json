@@ -1,5 +1,6 @@
 {
-	"name": "fcc-learn-node-with-express",
+	"author": "Adam",
+  "name": "fcc-learn-node-with-express",
 	"version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0",
@@ -13,5 +14,9 @@
 	},
 	"engines": {
 		"node": "10.14.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Adam777Z/freecodecamp-backend-part-2-express.git"
 	}
 }
