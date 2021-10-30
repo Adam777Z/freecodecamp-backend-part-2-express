@@ -1,7 +1,8 @@
 {
-  "author": "Adam",
   "name": "fcc-learn-node-with-express",
+  "description": "A project that does something awesome",
   "version": "1.0.0",
+  "author": "Adam",
   "dependencies": {
     "express": "^4.17.1",
     "body-parser": "^1.19.0",
