@@ -3,6 +3,17 @@
   "description": "A project that does something awesome",
   "version": "1.0.0",
   "author": "Adam",
+  "keywords": [
+    "descriptive",
+    "related",
+    "words",
+    "freecodecamp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Adam777Z/freecodecamp-backend-part-2-express.git"
+  },
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "body-parser": "^1.19.0",
@@ -15,9 +26,5 @@
   },
   "engines": {
     "node": "10.14.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Adam777Z/freecodecamp-backend-part-2-express.git"
   }
 }
