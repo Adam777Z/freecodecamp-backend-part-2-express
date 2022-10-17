@@ -1,30 +1,30 @@
 {
-  "name": "fcc-learn-node-with-express",
-  "description": "A project that does something awesome",
-  "version": "1.0.0",
-  "author": "Adam",
-  "keywords": [
-    "descriptive",
-    "related",
-    "words",
-    "freecodecamp"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Adam777Z/freecodecamp-backend-part-2-express.git"
-  },
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.18.1",
-    "body-parser": "^1.20.0",
-    "cookie-parser": "^1.4.6",
-    "fcc-express-bground": "https://github.com/Em-Ant/fcc-express-bground-pkg.git"
-  },
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "engines": {
-    "node": ">=16.12.0"
-  }
+	"name": "fcc-learn-node-with-express",
+	"description": "A project that does something awesome",
+	"version": "1.0.0",
+	"author": "Adam",
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Adam777Z/freecodecamp-backend-part-2-express.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.18.1",
+		"body-parser": "^1.20.0",
+		"cookie-parser": "^1.4.6",
+		"fcc-express-bground": "https://github.com/Em-Ant/fcc-express-bground-pkg.git"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": ">=16.12.0"
+	}
 }
